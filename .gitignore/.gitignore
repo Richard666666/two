@@ -1,0 +1,10 @@
+
+Administrator@UMMMZHE4GX4KT68 MINGW64 ~/Desktop/Task
+$ git add Hello.java
+fatal: Not a git repository (or any of the parent directories): .git
+
+Administrator@UMMMZHE4GX4KT68 MINGW64 ~/Desktop/Task
+$ git add Hello
+fatal: Not a git repository (or any of the parent directories): .git
+
+Administrator@UMMMZHE4GX4KT68 MINGW64 ~/Desktop/Task
